@@ -41,3 +41,11 @@ many OOP features are lackluster
 slapdash
 **********
 object support was added, rather slapdash
+**********
+expatriates
+**********
+Although this complimentary service is for Visteon business travel and for expatriates, the online travel and security advice may also be useful when planning personal travel.
+**********
+vaccinations
+**********
+International SOS can also help employees prepare in advance of travel with information on vaccinations, required medications and security concerns.
