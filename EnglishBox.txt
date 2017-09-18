@@ -90,8 +90,4 @@ aquarium
 **********
 Aquarium can either describe a small tank, or an entire building that houses fish and other aquatic life.
 **********
-https://www.youtube.com/watch?v=gm-RgfdaISU&list=PL0IbgIxxAzqGBNgzFZ9tf2gFwMPLC1tc3&t=187s&index=1
-**********
-daunting
-**********
-daunting task
+controversial
