@@ -166,3 +166,5 @@ The interior design is pleasant and the ergonomics are excellent
 self-explanatory
 **********
 The name's self-explanatory, but let's break it down anyway.
+**********
+diagnostic
