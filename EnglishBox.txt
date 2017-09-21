@@ -170,3 +170,5 @@ The name's self-explanatory, but let's break it down anyway.
 diagnostic
 **********
 diagnostic data
+**********
+mechanic
