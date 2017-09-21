@@ -162,3 +162,5 @@ If you take it up a notch, you increase the effort or intensity exerted in a sit
 ergonomics
 **********
 The interior design is pleasant and the ergonomics are excellent
+**********
+self-explanatory
