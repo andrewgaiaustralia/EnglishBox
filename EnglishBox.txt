@@ -202,3 +202,5 @@ therapy
 he is currently in therapy
 **********
 evacuation
+**********
+Police ordered the evacuation of the city center after the bomb was found.
