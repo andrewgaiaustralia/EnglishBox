@@ -208,3 +208,5 @@ Police ordered the evacuation of the city center after the bomb was found.
 rifle
 **********
 automatic rifle
+**********
+cardinal
