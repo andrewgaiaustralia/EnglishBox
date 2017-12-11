@@ -210,3 +210,5 @@ rifle
 automatic rifle
 **********
 cardinal
+**********
+If there¡¯s one cardinal rule in WordPress development, it¡¯s this: Don¡¯t touch WordPress core.
