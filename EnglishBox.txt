@@ -216,3 +216,5 @@ on the fly
 This gives Bill the freedom to rearrange the elements on the home page on the fly.
 **********
 stripe
+**********
+stripe
