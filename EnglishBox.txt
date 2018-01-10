@@ -18,8 +18,7 @@ We need to leverage this company
 **********
 intestine
 **********
-grabbed my small 
-intestine
+grabbed my small intestine
 **********
 aura
 **********
@@ -59,8 +58,7 @@ you feel hellbent to solve or die trying
 **********
 setback
 **********
-Y'know Monica you had a minor setback in your relationship with 
-Chandler. Big deal! It's only Chandler.
+You know Monica you had a minor setback in your relationship with Chandler. Big deal! It's only Chandler.
 **********
 genre
 **********
@@ -72,7 +70,7 @@ she and Elon were estranged
 **********
 imitate
 **********
-Don¡¯t imitate your role models.
+Donï¿½ï¿½t imitate your role models.
 **********
 tailored
 **********
@@ -195,7 +193,7 @@ and guidelines.
 **********
 jam-packed
 **********
-We¡¯ve all heard about the benefits if clearing unneeded stuff from your surroundings, but what about the stuff in your head ¡ª the psychological version of a jam-packed storage space?
+We have all heard about the benefits if clearing unneeded stuff from your surroundings, but what about the stuff in your head ï¿½ï¿½ the psychological version of a jam-packed storage space?
 **********
 therapy
 **********
@@ -211,4 +209,10 @@ automatic rifle
 **********
 cardinal
 **********
-If there¡¯s one cardinal rule in WordPress development, it¡¯s this: Don¡¯t touch WordPress core.
+If there is one cardinal rule in WordPress development, it is this: Don't touch WordPress core.
+**********
+on the fly
+**********
+This gives Bill the freedom to rearrange the elements on the home page on the fly.
+**********
+stripe
