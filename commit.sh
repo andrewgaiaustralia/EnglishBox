@@ -2,4 +2,4 @@
 cd /Users/alexyin/EnglishBox/
 git add .
 git commit -am "updated"
-git push origin master
+git push https://orochigalois:Miaoyaliu1213@github.com/orochigalois/EnglishBox.git master
