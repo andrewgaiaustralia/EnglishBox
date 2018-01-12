@@ -214,3 +214,5 @@ If there is one cardinal rule in WordPress development, it is this: Don't touch 
 on the fly
 **********
 This gives Bill the freedom to rearrange the elements on the home page on the fly.
+**********
+Ad-Hoc Work
