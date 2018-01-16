@@ -218,3 +218,5 @@ This gives Bill the freedom to rearrange the elements on the home page on the fl
 Ad-Hoc Work
 **********
 Working on an ad-hoc basis allows tasks to be done as they are requested without any formal approval process.
+**********
+asterisk
