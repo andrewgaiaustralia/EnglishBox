@@ -1,4 +1,4 @@
-Let's get started!
+﻿Let's get started!
 **********
 wary
 **********
@@ -222,3 +222,7 @@ Working on an ad-hoc basis allows tasks to be done as they are requested without
 asterisk
 **********
 missing asterisk saying 'required fields' 
+**********
+infringe
+**********
+Please don't infringe on other brands' trademarks with this tool
