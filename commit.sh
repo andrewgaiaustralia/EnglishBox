@@ -1,5 +1,5 @@
 #!/bin/sh
-cd /Users/alexyin/EnglishBox/
+cd /Users/alex/EnglishBox/
 #cd /c/Alex/EnglishBox
 git config --global user.email "fudanyinxin@gmail.com"
 git config --global user.name "Alex Yin"
