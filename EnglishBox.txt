@@ -246,5 +246,3 @@ Can we put these within an accordion like similar to the FAQ's following page?
 legibility
 **********
 Just to improve legibility
-**********
-loaded
