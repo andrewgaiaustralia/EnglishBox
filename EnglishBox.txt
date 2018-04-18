@@ -250,3 +250,5 @@ Just to improve legibility
 replicate
 **********
 I also logged onto IE and couldn't replicate the issue
+**********
+halve
