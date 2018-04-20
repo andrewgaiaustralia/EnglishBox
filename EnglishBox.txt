@@ -256,3 +256,5 @@ halve
 Kinc often supply mobile designs at 2x the size, if the PSD is 640 or 750px wide, literally halve the size of everything.
 **********
 merchandise
+**********
+general merchandise
