@@ -260,3 +260,5 @@ merchandise
 general merchandise
 **********
 heads up
+**********
+ Make sure to give everyone a heads up about the inspection tomorrow morning. We don't want anyone coming in unprepared. Just give me a heads-up if you need a ride.
