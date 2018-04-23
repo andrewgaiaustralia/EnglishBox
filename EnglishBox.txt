@@ -258,3 +258,5 @@ Kinc often supply mobile designs at 2x the size, if the PSD is 640 or 750px wide
 merchandise
 **********
 general merchandise
+**********
+heads up
