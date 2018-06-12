@@ -306,3 +306,5 @@ inaugural
 In 2013 Shopify decided to highlight great ecommerce design and launched the inaugural Shopify Design Awards.
 **********
 Sandals
+**********
+accordion
