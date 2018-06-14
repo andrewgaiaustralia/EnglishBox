@@ -312,3 +312,5 @@ accordion
 he played a tune on the accordion
 **********
 spammer
+**********
+Apparently, spammers have added thousands of random email addresses to my newsletter.
