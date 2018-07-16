@@ -328,3 +328,5 @@ Linnaean taxonomy
 Carolus Linnaeus is the father of taxonomy, which is the system of classifying and naming organisms.
 **********
 carousel
+**********
+A carousel is a circular, rotating amusement ride with seats for children. 
