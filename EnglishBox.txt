@@ -346,3 +346,5 @@ annotation
 Change annotation to: Facade view from Allison Park - Artist Impression
 **********
 hyphen
+**********
+ hyphen in here between 'Visit' and 'Display'
