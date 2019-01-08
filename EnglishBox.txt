@@ -358,11 +358,3 @@ abash
 abate
 **********
 Once the rains abated, my father’s garden thrived in the heat like an unleashed temper.
-**********
-header#top nav > ul > li {		margin-right:0px;	}
-**********
-mumbled
-**********
-mumbled
-**********
-mumbled
