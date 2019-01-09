@@ -1,6 +1,5 @@
 Let's get started!
 **********
-**********
 shocked
 **********
 Mrs. Dursley looked shocked and angry
@@ -23,6 +22,6 @@ Mrs. Dursley sipped her tea through pursed lips.
 **********
 pursed
 **********
-pursed
-**********
 Mrs. Dursley sipped her tea through pursed lips. 
+**********
+suppose
