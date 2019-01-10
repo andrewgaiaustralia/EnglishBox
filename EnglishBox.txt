@@ -39,3 +39,5 @@ Mr. Dursley crept to the bedroomwindow and peered down into the front garden.
 peered
 **********
  Mr. Dursley crept to the bedroomwindow and peered down into the front garden.
+**********
+yawned
