@@ -67,3 +67,5 @@ tuck
 robes
 **********
  He was wearing long robes
+**********
+swept
