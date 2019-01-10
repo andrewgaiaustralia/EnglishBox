@@ -113,3 +113,5 @@ ruffled
 She looked distinctly ruffled.
 **********
 distinctly
+**********
+She looked distinctly ruffled.
