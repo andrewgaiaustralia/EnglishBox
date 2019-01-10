@@ -71,3 +71,5 @@ robes
 swept
 **********
 a purple cloak that swept the ground, and high-heeled, buckled boots.
+**********
+crooked
