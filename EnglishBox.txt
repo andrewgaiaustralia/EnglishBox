@@ -105,3 +105,5 @@ severe
  Instead he was smilingat a rather severe-looking woman
 **********
 emerald
+**********
+She, too, waswearing a cloak, an emerald one. 
