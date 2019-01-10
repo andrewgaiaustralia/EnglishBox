@@ -111,3 +111,5 @@ She, too, waswearing a cloak, an emerald one.
 ruffled
 **********
 She looked distinctly ruffled.
+**********
+distinctly
