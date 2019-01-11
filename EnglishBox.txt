@@ -139,3 +139,5 @@ bowed
 Dumbledore bowed his head
 **********
 gasped
+**********
+ Professor McGonagall gasped
