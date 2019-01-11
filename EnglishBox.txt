@@ -137,3 +137,5 @@ pressed
 bowed
 **********
 Dumbledore bowed his head
+**********
+gasped
