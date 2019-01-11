@@ -163,3 +163,5 @@ firmly
 "It's the best place for him," said Dumbledore firmly.
 **********
 "A letter?" repeated Professor McGonagall faintly
+**********
+"A letter?" repeated Professor McGonagall faintly
