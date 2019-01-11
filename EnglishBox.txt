@@ -143,3 +143,5 @@ gasped
  Professor McGonagall gasped
 **********
 trembled
+**********
+Professor McGonagall's voice trembled as she went on
