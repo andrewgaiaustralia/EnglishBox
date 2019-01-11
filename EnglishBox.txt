@@ -162,6 +162,8 @@ firmly
 **********
 "It's the best place for him," said Dumbledore firmly.
 **********
+faintly
+**********
 "A letter?" repeated Professor McGonagall faintly
 **********
 astride
@@ -199,3 +201,5 @@ Scars can come in handy
 shaggy
 **********
 shaggy head over Harry and gave him what must have been a veryscratchy,
+**********
+whiskery
